@@ -1,7 +1,4 @@
 yaml```
-    Hi Candidate,
-
-As your first round, we would like you to complete a coding assignment. Please send the solution as a github link or as a zip file.
 
 
 Create an application with the following features:
